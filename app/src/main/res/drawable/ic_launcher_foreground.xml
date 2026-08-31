@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <!-- Power Bolt Icon -->
+  <path
+      android:fillColor="#FFD200"
+      android:pathData="M11.5,22C11.39,22 11.27,21.96 11.19,21.89C11.02,21.75 10.95,21.52 11.01,21.31L13.19,13H7.5C7.29,13 7.09,12.87 7.02,12.67C6.94,12.47 6.99,12.24 7.15,12.09L15.65,2.09C15.8,1.92 16.03,1.86 16.24,1.94C16.45,2.02 16.59,2.22 16.59,2.44L14.41,10.74L20.09,10.74C20.31,10.74 20.5,10.87 20.58,11.07C20.65,11.27 20.6,11.5 20.44,11.65L11.94,21.65C11.83,21.79 11.67,21.87 11.5,21.87L11.5,22Z"/>
+</vector>
